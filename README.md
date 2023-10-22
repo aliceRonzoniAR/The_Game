@@ -14,3 +14,5 @@ At each turn the player has to choose a card from their hand and play it on a pi
   Example: the player has 45 in hand and on U1 there is 55. Following the rules, the player shouldn't play 45 on that pile because we need the pile to increse. But since the difference is exactly of 10, the player can go down.
   Same thing happens for the decreasing pile.
   Example: the player wants to play 55 on D1 where there is 45. Since the difference is of exactly 10 numbers can growth, even if the pile is going down.
+
+The game ends when the player cannot play anycard or when all the cards have been played.
