@@ -6,7 +6,7 @@ At each turn the player has to choose a card from their hand and play it on a pi
 - In D1 and D2 numbers have to decrease (from 100 to 2)
 - In U1 and U2 numbers have to increse (from 1 to 99)
 
-  On the increasing pile numbers have always to be incresing. Example: 1-3-11-45-78-90
+  On the increasing pile, numbers have to be always incresing. Example: 1-3-11-45-78-90
   Same thing for decreasing pile.
 
   The only exception to these rules is when there is a difference of exactly ten with the card the player wants to play and the card on the pile.
@@ -15,4 +15,4 @@ At each turn the player has to choose a card from their hand and play it on a pi
   Same thing happens for the decreasing pile.
   Example: the player wants to play 55 on D1 where there is 45. Since the difference is of exactly 10 numbers can growth, even if the pile is going down.
 
-The game ends when the player cannot play anycard or when all the cards have been played.
+The game ends when the player cannot play any card or when all the cards have been played.
